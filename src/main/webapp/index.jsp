@@ -1,1 +1,1 @@
-<h1> Venu kalyan </h1>
+<h1 align:center> Venu kalyan </h1>
